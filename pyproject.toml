@@ -54,7 +54,7 @@ dev = [
 ]
 build = [
   "pyinstaller>=6.12",
-  "cyclonedx-bom==7.5.0",
+  "cyclonedx-bom==8.0.1",
 ]
 web = [
   "fastapi>=0.140,<1",
